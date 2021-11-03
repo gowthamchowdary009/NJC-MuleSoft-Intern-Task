@@ -10,9 +10,6 @@ Creation of database is done out of band and the database configuration can be m
 From the root directory build the project using maven
 ```mvn clean install```
 
-### Run
-```java -jar target/MovieDB-1.0-SNAPSHOT-jar-with-dependencies.jar```
-
 ### Functionalities
 1. Create db table
 2. Add entry to db table
